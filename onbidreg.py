@@ -5,7 +5,6 @@ import re
 sys.stdout = io.TextIOWrapper(sys.stdout.detach(), encoding = 'utf-8')
 sys.stderr = io.TextIOWrapper(sys.stderr.detach(), encoding = 'utf-8')
 
-
 datalist = [
     #   "경기도 부천시 심곡동 355-1 전문건설공제조합 부천지점(태원건설(주) 출자증권:가제13912,나제5028,다제8194,다제16893,라제7190,바제16958)"
     # , "경기도 성남시 분당구 정자동 25-1 전문건설공제조합 출자증권 2좌(1좌권:가제102139호, 가제102142호)"
