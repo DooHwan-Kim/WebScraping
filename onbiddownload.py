@@ -139,7 +139,7 @@ def getparam(pageNum):
         , "dtmType" : "d4"
         , "dtmName" : ""
         , "dtmBegin" : "2017-01-01"
-        , "dtmCls" : "2019-10-31"
+        , "dtmCls" : "2019-11-30"
         , "orgNm" : ""
         , "monType" : ""
         , "begnMon" : ""
